@@ -1,3 +1,3 @@
-function core() {
-    console.log("Hello Core");
+function core(arg) {
+    console.log("Hello Core" + arg);
 }
