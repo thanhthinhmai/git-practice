@@ -1,4 +1,4 @@
 const core = require("../core");
-function execute() {
-    core();
+function execute(arg) {
+    core(arg);
 }
